@@ -2,15 +2,15 @@
 
 ### About Me
 
-- 🏫 I'm a current graduate student at Drexel University.
+- 🏫 I'm a bioinformatician studying the immmune system and its interactions with the gut microbiome.
 - 🧬 My research endeavors are primarily in genomics and bioinformatics, although I'm quite interested in anything related to data science!
-- 🦠 I have experience with both bacterial and viral genomics
-- 💻 I’m currently expanding my machine learning knowledge and implementing new models.
-- 🖥️ Most of my coding experience is using R, although I've used python a good bit as well as shell scripting of course!
+- 🦠 I have experience with genomics (bacterial, viral, and eukaryotic), as well as single-cell omics including CyTOF and scRNA-seq.
+- 💻 I’m currently studying changes in the immune system in response to combination immunotherapy regimens.
+- 🖥️ Most of my coding experience is using R, although I've used python a good bit as well as shell scripting in addition to MATLAB.
 - 👨‍💻 I’m looking to collaborate with other bioinformaticians, biomedical researchers, geneticists, and anyone interested in data science!
-- 🥅 2023 Goals: Optimize my machine learning methodology and keep up on my github! 
+- 🥅 2024 Goals: Continue developing skills for analyzing the intracacies of single-cell omics! 
 - 👨‍🏫 Fun fact: I taught high school biology for several years prior to delving into the field of genomics!
-- 🐈 Ask me about Nico, my big tuxedo boy!
+- 🐈 Ask me about Nico, my big tuxedo boy or Jenny my wild calico kitten!
 
 ---
 
