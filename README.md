@@ -5,7 +5,7 @@
 - 🏫 I'm a bioinformatician studying the immmune system and its interactions with the gut microbiome.
 - 🧬 My research endeavors are primarily in genomics and bioinformatics, although I'm quite interested in anything related to data science!
 - 🦠 I have experience with genomics (bacterial, viral, and eukaryotic), as well as single-cell omics including CyTOF and scRNA-seq.
-- 💻 I’m currently studying changes in the immune system in response to combination immunotherapy regimens.
+- 💻 I’m currently analyzing changes in the immune system in response to combination immunotherapy regimens.
 - 🖥️ Most of my coding experience is using R, although I've used python a good bit as well as shell scripting in addition to MATLAB.
 - 👨‍💻 I’m looking to collaborate with other bioinformaticians, biomedical researchers, geneticists, and anyone interested in data science!
 - 🥅 2024 Goals: Continue developing skills for analyzing the intracacies of single-cell omics! 
