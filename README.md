@@ -10,7 +10,7 @@
 - 👨‍💻 I’m looking to collaborate with other bioinformaticians, biomedical researchers, geneticists, and anyone interested in data science!
 - 🥅 2024 Goals: Continue developing skills for analyzing the intracacies of single-cell omics! 
 - 👨‍🏫 Fun fact: I taught high school biology for several years prior to delving into the field of genomics!
-- 🐈 Ask me about Nico, my big tuxedo boy or Jenny my wild calico kitten!
+- 🐈 Ask me about Nico my big tuxedo boy or Jenny my wild calico kitten!
 
 ---
 
